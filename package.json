@@ -1,0 +1,21 @@
+{
+    "name": "project.js",
+    "version": "1.0.0",
+    "author": "rx007",
+    "repository": 
+    {
+        "type": "git",
+        "url": "https://github.com/yamoo/hacman.git"
+    },
+    "devDependencies": 
+    {
+        "grunt": "0.4.1",
+        "grunt-cli": "0.1.9",
+        "grunt-contrib-jshint": "0.6.3",
+        "jshint": "^2.5.10"
+    },
+    "scripts": 
+    {
+        "test": "grunt --verbose"
+    }
+}
