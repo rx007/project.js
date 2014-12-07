@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/rx007/project.js.png?label=ready&title=Ready)](https://waffle.io/rx007/project.js)
 project.js
 ==========
 
