@@ -1,6 +1,5 @@
 
-project.js
-==========
+## project.js
 
 [![Codacy Badge](https://img.shields.io/codacy/e27821fb6289410b8f58338c7e0bc686.svg)](https://www.codacy.com/public/rx007/project.js)
 [![Stories in Ready](https://badge.waffle.io/rx007/project.js.png?label=ready&title=Ready)](https://waffle.io/rx007/project.js)
@@ -12,5 +11,20 @@ project.js
 [![node](http://img.shields.io/node/v/gh-badges.svg)]()
 [![npm](http://img.shields.io/npm/v/npm.svg)]()
 
-node
+## Installation
+
+Provide code examples and explanations of how to get the project.
+
+
+## Tests
+
+Describe and show how to run the tests with code examples.
+
+## Contributors
+
+rx007
+
+## License
+
+This is licensed under Apache 2.0
 
