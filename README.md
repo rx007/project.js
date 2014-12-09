@@ -14,6 +14,7 @@
 [![Requirements Status](https://requires.io/github/rx007/project.js/requirements.svg?branch=master)](https://requires.io/github/rx007/project.js/requirements/?branch=master)
 [![GitHub](http://img.shields.io/github/issues/badges/shields.svg)]()
 [![wercker status](http://img.shields.io/wercker/ci/54330318b4ce963d50020750.svg "wercker status")](https://app.wercker.com/project/bykey/2ebcdcd5ee661cef5ee56f0307872ab8)
+[![Build status](http://img.shields.io/appveyor/ci/gruntjs/grunt.svg)](https://ci.appveyor.com/project/rx007/project-js)
 
 ## Installation
 
