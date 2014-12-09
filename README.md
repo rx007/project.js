@@ -10,6 +10,8 @@
 [![Hex.pm](http://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 [![node](http://img.shields.io/node/v/gh-badges.svg)]()
 [![npm](http://img.shields.io/npm/v/npm.svg)]()
+[ ![Codeship Status for rx007/project.js](http://img.shields.io/codeship/d6c1ddd0-16a3-0132-5f85-2e35c05e22b1.svg)](https://codeship.com/projects/51841)
+
 
 ## Installation
 
