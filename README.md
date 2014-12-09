@@ -15,6 +15,7 @@
 [![GitHub](http://img.shields.io/github/issues/badges/shields.svg)]()
 [![wercker status](http://img.shields.io/wercker/ci/54330318b4ce963d50020750.svg "wercker status")](https://app.wercker.com/project/bykey/2ebcdcd5ee661cef5ee56f0307872ab8)
 [![Build status](http://img.shields.io/appveyor/ci/gruntjs/grunt.svg)](https://ci.appveyor.com/project/rx007/project-js)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/rx007/project.js/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/rx007/project.js/?branch=master)
 
 ## Installation
 
