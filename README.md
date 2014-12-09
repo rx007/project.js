@@ -13,6 +13,7 @@
 [ ![Codeship Status for rx007/project.js](http://img.shields.io/codeship/d6c1ddd0-16a3-0132-5f85-2e35c05e22b1.svg)](https://codeship.com/projects/51841)
 [![Requirements Status](https://requires.io/github/rx007/project.js/requirements.svg?branch=master)](https://requires.io/github/rx007/project.js/requirements/?branch=master)
 [![GitHub](http://img.shields.io/github/issues/badges/shields.svg)]()
+[![wercker status](http://img.shields.io/wercker/ci/54330318b4ce963d50020750.svg "wercker status")](https://app.wercker.com/project/bykey/2ebcdcd5ee661cef5ee56f0307872ab8)
 
 ## Installation
 
