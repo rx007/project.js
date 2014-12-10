@@ -19,12 +19,12 @@
 
 ## Installation
 
-Provide code examples and explanations of how to get the project.
+node hello.js
 
 
 ## Tests
 
-Describe and show how to run the tests with code examples.
+npm test
 
 ## Contributors
 
