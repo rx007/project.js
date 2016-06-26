@@ -16,6 +16,7 @@
 [![wercker status](http://img.shields.io/wercker/ci/54330318b4ce963d50020750.svg "wercker status")](https://app.wercker.com/project/bykey/2ebcdcd5ee661cef5ee56f0307872ab8)
 [![Build status](http://img.shields.io/appveyor/ci/gruntjs/grunt.svg)](https://ci.appveyor.com/project/rx007/project-js)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/rx007/project.js/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/rx007/project.js/?branch=master)
+[![GitHub commits](https://img.shields.io/github/commits-since/SubtitleEdit/subtitleedit/3.4.7.svg?maxAge=2592000)]()
 
 ## Installation
 
@@ -33,4 +34,3 @@ rx007
 ## License
 
 This is licensed under Apache 2.0
-
