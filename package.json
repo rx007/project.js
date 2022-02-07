@@ -16,7 +16,7 @@
     "test": "grunt --verbose"
   },
   "dependencies": {
-    "codecov.io": "0.0.8",
+    "codecov.io": "0.1.6",
     "jasmine-node": "^1.14.5",
     "mocha": "^2.0.1",
     "mocha-lcov-reporter": "0.0.1"
